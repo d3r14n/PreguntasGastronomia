@@ -1,0 +1,30 @@
+C:\Users\DerianJair\Desktop\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.pdb
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.exe
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.pdb
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csprojResolveAssemblyReference.cache
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.exe
+C:\Users\DerianJair\Desktop\Ing Software\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.pdb
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.exe
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.pdb
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.pdb
+C:\Users\DerianJair\Desktop\Ing Software\I\Introducción a la Programación\Proyectos\Proyecto Preguntas Gastro\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csprojResolveAssemblyReference.cache
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.pdb
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csprojResolveAssemblyReference.cache
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csproj.CoreCompileInputs.cache
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.exe
+C:\Users\naire\Desktop\Creaciones\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.pdb
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe.config
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.exe
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\bin\Debug\PreguntasGastronomia.pdb
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csprojAssemblyReference.cache
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.csproj.CoreCompileInputs.cache
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.exe
+C:\Users\naire\Desktop\Creaciones\C#\PreguntasGastronomia\PreguntasGastronomia\obj\Debug\PreguntasGastronomia.pdb
